@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -38,4 +41,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
