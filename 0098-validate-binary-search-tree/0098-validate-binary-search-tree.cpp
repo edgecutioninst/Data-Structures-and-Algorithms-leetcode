@@ -16,6 +16,7 @@ public:
     {
         if (root == NULL) return true;
 
+        //violations if any
         if (root->val <= minVal || root->val >= maxVal) return false;
 
         return isValid(root->left, minVal, root->val) && isValid(root->right, root->val, maxVal);
