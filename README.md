@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -124,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
