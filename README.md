@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Hash Table
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Iterator
 |  |
@@ -145,10 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Matrix
 |  |
