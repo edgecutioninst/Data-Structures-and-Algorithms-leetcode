@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0785-is-graph-bipartite) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -176,9 +178,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0210-course-schedule-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
