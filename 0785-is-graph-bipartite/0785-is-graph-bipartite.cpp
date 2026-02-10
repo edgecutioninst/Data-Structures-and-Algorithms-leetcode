@@ -1,39 +1,34 @@
 class Solution {
 public:
-
-    bool check(int node, int col, vector<int>& color, vector<vector<int>>& adj) 
-    {
-        color[node] = col; 
-
-        for (int i = 0; i < adj[node].size(); i++) 
-        {
-            int neighbor = adj[node][i];
-
-            if (color[neighbor] == -1) 
-            {
-                if (check(neighbor, !col, color, adj) == false) return false;
-            }
-            else if (color[neighbor] == col) 
-            return false;
-            
-        }
-
-        return true;
-    }
-
     bool isBipartite(vector<vector<int>>& graph) {
-        
-        //already adj list
-        vector<int> color(graph.size(), -1);
+        int n = graph.size();
+        vector<int> color(n, -1); 
 
-        for (int i = 0; i < graph.size(); i++) 
+        for (int i = 0; i < n; i++) 
         {
-            if (color[i] == -1) {
-                //color fisrt component as 0
-                if (!check(i, 0, color, graph)) return false;
+            if (color[i] == -1) 
+            { // If node 'i' hasn't been colored, start BFS
+                queue<int> q;
+                q.push(i);
+                color[i] = 0;
+
+                while (!q.empty()) 
+                {
+                    int node = q.front();
+                    q.pop();
+
+                    for (int neighbor : graph[node]) {
+                        if (color[neighbor] == -1) {
+                            color[neighbor] = !color[node];  
+                            q.push(neighbor);
+                        } 
+                        else if (color[neighbor] == color[node]) 
+                        return false; 
+                        
+                    }
+                }
             }
         }
-
         return true;
     }
 };
