@@ -1,10 +1,6 @@
 class Solution {
 public:
 
-    bool isValid(int r, int c, int n, int m) 
-    {
-        return r >= 0 && r < n && c >= 0 && c < m;
-    }
 
     void dfs(int row, int col, vector<vector<char>> &grid , vector<vector<int>> &vis) 
     {
