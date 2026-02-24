@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0509-fibonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Sorting
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
