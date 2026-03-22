@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/2235-add-two-integers) |
 ## Tree
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0189-rotate-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0213-house-robber-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Iterator
