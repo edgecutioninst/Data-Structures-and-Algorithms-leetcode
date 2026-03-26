@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0328-odd-even-linked-list](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0328-odd-even-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Iterator
 |  |
 | ------- |
