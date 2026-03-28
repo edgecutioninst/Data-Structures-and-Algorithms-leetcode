@@ -1,69 +1,64 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-
-        int n = grid.size();
-        int m = grid[0].size();
-
-        queue<pair<pair<int, int>, int>> q;
+        int time = 0;
         int freshCount = 0;
+                 //<row,col>
+        queue<pair<int, int>> q;
 
-        for (int i = 0; i < n; i++) 
+        for(int i = 0; i < grid.size(); i++)
         {
-            for (int j = 0; j < m; j++) 
+            for(int j = 0; j < grid[0].size(); j++)
             {
-                if (grid[i][j] == 2) 
-                q.push({{i, j}, 0});
-                
-                else if (grid[i][j] == 1)     
-                freshCount++;
-                
+                if(grid[i][j] == 1)
+                    freshCount ++;
+                else if(grid[i][j] == 2)
+                    q.push({i,j});
             }
         }
 
-        int maxTime = 0;
+        if(!freshCount) return 0;
 
-        while (!q.empty())
+        while(!q.empty() && freshCount > 0)
         {
-            int r = q.front().first.first;
-            int c = q.front().first.second;
-            int t = q.front().second;
-            q.pop();
+            int size = q.size();
 
-            maxTime = max(maxTime, t);
-
-            //up
-            if (r - 1 >= 0 && grid[r - 1][c] == 1) {
-                grid[r - 1][c] = 2; 
-                freshCount--;       
-                q.push({{r - 1, c}, t + 1});
-            }
-
-            // down
-            if (r + 1 < n && grid[r + 1][c] == 1) 
+            for(int i = 0; i < size; i++)
             {
-                grid[r + 1][c] = 2;
-                freshCount--;
-                q.push({{r + 1, c}, t + 1});
-            }
+                int r = q.front().first;
+                int c = q.front().second;
+                q.pop();
 
-            // left
-            if (c - 1 >= 0 && grid[r][c - 1] == 1) 
-            {
-                grid[r][c - 1] = 2;
-                freshCount--;
-                q.push({{r, c - 1}, t + 1});
+                if(r - 1 >= 0 && grid[r-1][c] == 1){
+                    freshCount--;
+                    grid[r-1][c] = 2;
+                    q.push({r-1, c});
+                }
+                
+                if(r + 1 < grid.size() && grid[r+1][c] == 1) {
+                    freshCount--;
+                    grid[r+1][c] = 2;
+                    q.push({r+1, c});
+                }
+                
+                if(c - 1 >= 0 && grid[r][c-1] == 1) {
+                    freshCount--;
+                    grid[r][c-1] = 2;
+                    q.push({r, c-1});
+                }
+                
+                if(c + 1 < grid[0].size() && grid[r][c+1] == 1) {
+                    freshCount--;
+                    grid[r][c+1] = 2;
+                    q.push({r, c+1});
+                }
             }
-
-            // right
-            if (c + 1 < m && grid[r][c + 1] == 1) 
-            {
-                grid[r][c + 1] = 2;
-                freshCount--;
-                q.push({{r, c + 1}, t + 1});
-            }
+            time ++;
         }
 
-        return (freshCount != 0) ? -1 : maxTime; 
+        if(!freshCount) return time;
+
+        else return -1;
+
     }
 };
