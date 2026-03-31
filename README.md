@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0200-number-of-islands) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0213-house-robber-ii) |
