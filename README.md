@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0509-fibonacci-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0189-rotate-array) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0994-rotting-oranges) |
