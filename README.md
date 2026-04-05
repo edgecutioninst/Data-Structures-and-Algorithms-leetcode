@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0198-house-robber) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0198-house-robber) |
