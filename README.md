@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1143-longest-common-subsequence) |
 ## Design
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0567-permutation-in-string](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Iterator
@@ -324,4 +327,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
