@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0173-binary-search-tree-iterator) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0733-flood-fill) |
