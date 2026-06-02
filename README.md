@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/2235-add-two-integers) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0169-majority-element) |
