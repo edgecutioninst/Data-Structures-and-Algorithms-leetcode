@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0739-daily-temperatures](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
