@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     vector<int> nextSmallerIndex(vector<int>& arr, int n)
     {
         vector<int> next(n);
