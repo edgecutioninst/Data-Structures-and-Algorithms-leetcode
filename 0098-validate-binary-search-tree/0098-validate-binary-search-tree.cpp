@@ -12,18 +12,17 @@
 class Solution {
 public:
 
-    bool isValid(TreeNode* root, long long minVal, long long maxVal)
+    bool validate(TreeNode* root, long min, long max)
     {
-        if (root == NULL) return true;
+        if(!root) return true;
 
-        //violations if any
-        if (root->val <= minVal || root->val >= maxVal) return false;
+        if(root->val <= min || root->val >= max) return false;
 
-        return isValid(root->left, minVal, root->val) && isValid(root->right, root->val, maxVal);
+        return validate(root->left, min, root->val) && 
+               validate(root->right, root->val, max);
     }
-    
 
     bool isValidBST(TreeNode* root) {
-        return isValid(root, LLONG_MIN, LLONG_MAX);
+        return validate(root, LONG_MIN , LONG_MAX );
     }
 };
