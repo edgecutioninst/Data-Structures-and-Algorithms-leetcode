@@ -10,60 +10,61 @@
 class Codec {
 public:
 
-    void serialHelper(TreeNode* root, string &s)
+    void serial(TreeNode* root, string &str)
     {
-        if(!root) 
+        if(!root)
         {
-            s+="#,";
-            return;
+            str += "N,";
+            return; 
         }
 
-        s += std::to_string(root->val) + ",";
+        str += to_string(root->val) + ",";
 
-        serialHelper(root->left,s); 
-        
-        serialHelper(root->right,s); 
-    }
-
-    TreeNode* deserialHelper(string &data, int &i)
-    {
-        if(data[i] == '#')
-        {
-            i += 2; //skip #,
-            return NULL; 
-        }
-
-        //fetch number:
-        string s = "";
-        while(data[i] != ',')
-        {
-            s += data[i];
-            i++;
-        }
-
-        i++; //skips ','
-
-        TreeNode *node = new TreeNode(stoi(s));
-
-        node->left = deserialHelper(data, i);
-        node->right = deserialHelper(data, i);
-
-        return node;
+        serial(root->left,str);
+        serial(root->right,str);
     }
 
     // Encodes a tree to a single string.
-    string serialize(TreeNode* root) 
+    string serialize(TreeNode* root) {
+        string str = "";
+        serial(root, str);
+        return str;
+    }
+
+
+    
+    TreeNode* deserial(vector<string>& tokens, int& i)
     {
-        string s = "";
-        serialHelper(root,s);
-        return s;    
+        if(tokens[i] == "N") 
+        { 
+            i++; 
+            return NULL; 
+        }
+
+        TreeNode* node = new TreeNode(stoi(tokens[i]));
+        i++;
+
+        node->left = deserial(tokens, i);
+        node->right = deserial(tokens, i);
+        return node;
     }
 
     // Decodes your encoded data to tree.
-    TreeNode* deserialize(string data) 
-    {   
+    TreeNode* deserialize(string data) {
+        vector<string> tokens;
+        string token;
+
+        for(char c : data) 
+        {
+            if(c == ',') 
+            { 
+                tokens.push_back(token); 
+                token = ""; 
+            }
+            else token += c;
+        }
         int i = 0;
-        return deserialHelper(data, i);    
+        return deserial(tokens, i);
     }
 };
 
