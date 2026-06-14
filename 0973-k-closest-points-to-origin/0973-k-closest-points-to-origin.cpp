@@ -7,9 +7,10 @@ public:
 
 
         for(int i = 0; i < points.size(); i++)
-        pq.push({points[i][0]*points[i][0] + points[i][1]*points[i][1], i}); //x2 + y2
-
-        while(pq.size() > k) pq.pop();
+        {
+            pq.push({points[i][0]*points[i][0] + points[i][1]*points[i][1], i}); //x2 + y2
+            if(pq.size() > k) pq.pop();
+        }
 
         while(!pq.empty()) {
             int idx = pq.top().second;
