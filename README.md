@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [2235-add-two-integers](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/2235-add-two-integers) |
 ## Tree
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1046-last-stone-weight) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0853-car-fleet](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -327,11 +331,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Data Stream
 |  |
 | ------- |
@@ -404,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0572-subtree-of-another-tree) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
