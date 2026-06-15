@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0518-coin-change-ii) |
+| [0621-task-scheduler](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0739-daily-temperatures) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0981-time-based-key-value-store](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0981-time-based-key-value-store) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1046-last-stone-weight) |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0621-task-scheduler) |
 ## Sliding Window
 |  |
 | ------- |
@@ -414,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
