@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0257-binary-tree-paths) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0118-pascals-triangle) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0046-permutations) |
