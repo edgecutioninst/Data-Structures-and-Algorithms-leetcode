@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0189-rotate-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
