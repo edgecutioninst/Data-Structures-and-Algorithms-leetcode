@@ -24,11 +24,11 @@ public:
     Node* cloneGraph(Node* node) {
         if (node == NULL) return NULL;
 
-        unordered_map<Node*, Node*> mp;
+        unordered_map<Node*, Node*> m;
 
-        mp[node] = new Node(node->val);
+        m[node] = new Node(node->val);
 
-        queue<Node*>q;
+        queue<Node*> q;
         q.push(node);
 
         while(!q.empty())
@@ -40,20 +40,16 @@ public:
             {
                 Node* neighbor = curr->neighbors[i];
 
-                if(mp.find(neighbor) == mp.end()) {
-        
-                    mp[neighbor] = new Node(neighbor->val);
-                
+                if(m.find(neighbor) == m.end()) 
+                {
+                    m[neighbor] = new Node(neighbor->val);
                     q.push(neighbor);
-                
                 }
 
-                mp[curr]->neighbors.push_back(mp[neighbor]);
-
+                m[curr]->neighbors.push_back(m[neighbor]);
             }
         }
-        
 
-        return mp[node];
+        return m[node];
     }
 };
