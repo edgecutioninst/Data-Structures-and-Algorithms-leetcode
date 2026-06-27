@@ -1,10 +1,10 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int time = 0;
+        int time = 0; 
         int freshCount = 0;
-                 //<row,col>
-        queue<pair<int, int>> q;
+
+        queue<pair<int,int>>q;
 
         for(int i = 0; i < grid.size(); i++)
         {
@@ -51,14 +51,11 @@ public:
                     freshCount--;
                     grid[r][c+1] = 2;
                     q.push({r, c+1});
-                }
+                }   
             }
-            time ++;
+            time += 1;
         }
 
-        if(!freshCount) return time;
-
-        else return -1;
-
+        return (!freshCount) ? time : -1;
     }
 };
