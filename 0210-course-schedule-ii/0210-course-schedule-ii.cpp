@@ -1,61 +1,50 @@
 class Solution {
 public:
 
-    bool dfs(int node, vector<vector<int>>& adj, vector<int>& visited, vector<int>& pathVisited, stack<int>& st) 
+    bool dfs(int node, vector<vector<int>>& adj, vector<bool>& visited, vector<bool>& inPath, vector<int> &result)
     {
-        visited[node] = 1;
-        pathVisited[node] = 1; // marked currently in recursion stack
-        
-        for(int i = 0; i < adj[node].size(); i++) 
+        inPath[node] = 1; 
+
+        for(int j = 0; j < adj[node].size(); j++) 
         {
-            int neighbor = adj[node][i];
+            int neigh = adj[node][j];
+
+            if(inPath[neigh]) return true; // cycle
             
-            if(!visited[neighbor]) 
-            {
-                if(dfs(neighbor, adj, visited, pathVisited, st)) return true; // cycle found deeper, return back 1
-            }
-
-            //cycle found
-            else if(pathVisited[neighbor]) 
-            return true;
+            if(!visited[neigh])
+                if(dfs(neigh, adj, visited, inPath, result)) return true;
         }
-        
-        pathVisited[node] = 0;
-        
-        //push on the way back and backtrack the path aswelll
-        st.push(node);
-        
-        return false; 
-    }
 
-    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) 
-    {
+        inPath[node] = false;
+        visited[node] = true;
+        result.push_back(node);
+        return false; // no cycle found
+    } 
+
+
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+        
         vector<vector<int>> adj(numCourses);
         for(int i = 0; i < prerequisites.size(); i++) 
         {
             int u = prerequisites[i][0];
             int v = prerequisites[i][1];
-            adj[v].push_back(u); // prereq -> course
+            adj[v].push_back(u);
         }
-        
-        vector<int> visited(numCourses, 0);
-        vector<int> pathVisited(numCourses, 0);
-        stack<int> st;
-        
+
+        vector<bool> visited(numCourses, false);
+        vector<bool> inPath(numCourses, false);
+
+        vector<int> result;
+
         for(int i = 0; i < numCourses; i++) {
             if(!visited[i]) {
-                //if (true) -> cycle -> cant be sorted
-                if(dfs(i, adj, visited, pathVisited, st)) return {}; 
+                //if (true) -> cycle detected -> wrong
+                if(dfs(i, adj, visited, inPath, result)) return {}; 
             }
         }
-        
-        //reverses the order giving the perfect sort
-        vector<int> ans;
-        while(!st.empty()) {
-            ans.push_back(st.top());
-            st.pop();
-        }
-        
-        return ans;
-    }
+
+        reverse(result.begin(), result.end());
+        return result;
+    }   
 };
