@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0994-rotting-oranges) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Sorting
