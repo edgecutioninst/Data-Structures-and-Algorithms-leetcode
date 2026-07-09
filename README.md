@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
