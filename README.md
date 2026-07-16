@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0079-word-search) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0072-edit-distance) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0621-task-scheduler) |
 ## Minimum Spanning Tree
 |  |
