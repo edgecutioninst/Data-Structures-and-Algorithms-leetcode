@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0079-word-search) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0169-majority-element) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0072-edit-distance) |
