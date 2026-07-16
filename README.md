@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0091-decode-ways) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0115-distinct-subsequences) |
