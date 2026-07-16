@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0621-task-scheduler) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0994-rotting-oranges) |
@@ -402,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0785-is-graph-bipartite) |
@@ -411,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -425,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
