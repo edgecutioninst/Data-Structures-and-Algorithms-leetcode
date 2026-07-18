@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0678-valid-parenthesis-string](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1143-longest-common-subsequence) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0763-partition-labels) |
 ## Minimum Spanning Tree
 |  |
