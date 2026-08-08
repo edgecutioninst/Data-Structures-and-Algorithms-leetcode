@@ -515,4 +515,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
