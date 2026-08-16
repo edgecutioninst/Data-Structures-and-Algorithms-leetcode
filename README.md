@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0994-rotting-oranges) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0981-time-based-key-value-store) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0778-swim-in-rising-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0994-rotting-oranges) |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0778-swim-in-rising-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1046-last-stone-weight) |
 ## Quickselect
@@ -419,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
@@ -445,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Memoization
@@ -525,4 +532,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0494-target-sum) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
