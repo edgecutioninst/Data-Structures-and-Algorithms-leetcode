@@ -6,7 +6,7 @@ public:
 
         for(int i = 0; i < nums.size(); i++)
         {
-            if(farthest > nums.size() - 2) return true;
+            if(farthest >= nums.size() - 1) return true;
 
             if(i > farthest) return false;
 
