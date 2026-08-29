@@ -3,13 +3,16 @@ public:
 
     int solve(int i, vector<int>& nums, vector<int>& dp)
     {
-        if(i >= nums.size()) return 0;
+        if( i >= nums.size()) return 0;
 
         if(dp[i] != -1) return dp[i];
 
-        dp[i] = max(nums[i] + solve(i+2, nums, dp), solve(i+1, nums, dp));
+        int take = 0, skip = 0;
 
-        return dp[i];
+        take = nums[i] + solve(i+2, nums, dp);
+        skip = solve(i+1, nums, dp);
+
+        return dp[i] = max(take,skip);
     }
 
     int rob(vector<int>& nums) {
