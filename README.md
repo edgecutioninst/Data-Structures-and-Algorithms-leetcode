@@ -563,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0238-product-of-array-except-self) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
