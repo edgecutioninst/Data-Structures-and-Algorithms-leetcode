@@ -1,7 +1,6 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-
         int l = 0, r = 0;
         int maxLen = INT_MIN;
         int freq = 0; // most repeating char
@@ -11,25 +10,24 @@ public:
 
         while(r < s.size())
         {
-            if(m.find(s[r]) == m.end()) m[s[r]] = 1;
-            else m[s[r]]++;
+            m[s[r]]++;
 
             win = r - l + 1;
-
+        
             freq = max(freq, m[s[r]]);
 
-            while(win - freq > k) // more rep needed than given so we shrink
+            // replacement needed = total window size - frequency of most common character
+            while(k < win - freq)
             {
                 m[s[l]]--;
                 l++;
                 win = r - l + 1;
             }
 
-
             maxLen = max(maxLen, win);
-
             r++;
         }
+
         return maxLen;
     }
 };
