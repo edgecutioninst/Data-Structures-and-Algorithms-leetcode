@@ -5,10 +5,7 @@ public:
 
         while(l<r)
         {
-            char temp;
-            temp = s[l];
-            s[l] = s[r];
-            s[r] = temp;
+            swap(s[l],s[r]);
             l++; r--;
         }
         return;
