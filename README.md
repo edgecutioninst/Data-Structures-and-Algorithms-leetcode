@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0844-backspace-string-compare) |
 | [0981-time-based-key-value-store](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/1143-longest-common-subsequence) |
 ## Design
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0844-backspace-string-compare) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Iterator
 |  |
@@ -582,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/edgecutioninst/Data-Structures-and-Algorithms-leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
