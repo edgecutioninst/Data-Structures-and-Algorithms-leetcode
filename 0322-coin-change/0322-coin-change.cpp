@@ -11,13 +11,13 @@ public:
 
         int ans = INT_MAX;
 
-        for(int i = 0; i<coins.size(); i++)
+        for(int i = 0; i < coins.size(); i++)
         {
-            int _ = recurse(coins, amount - coins[i], dp);
+            int curr = recurse(coins, amount - coins[i], dp);
 
-            if (_ != INT_MAX) 
-            ans = min(1 + _, ans);
+            if (curr  != INT_MAX) ans = min(1 + curr , ans);
         }
+
         return dp[amount] = ans;
     }
 
