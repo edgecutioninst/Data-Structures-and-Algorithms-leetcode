@@ -1,48 +1,36 @@
 class Solution {
 public:
 
-    int solve(vector<int> &arr)
+    int solve(int i, int n, vector<int> &dp, vector<int> &nums)
     {
-        int n = arr.size();
+        if( i >= n ) return 0;
 
-        if (n == 0) return 0;
-        if (n == 1) return arr[0];
+        if(dp[i] != -1) return dp[i]; // returns memoised data
 
-        int prev2 = 0;  
-        int prev1 = arr[0];  
+        // if not memoised, create one
+        // rob
+        int rob = 0;
+        rob = nums[i] + solve(i + 2, n, dp, nums);
 
-        for(int i = 1; i < n; i++)
-        {
-            int incl = prev2 + arr[i]; 
-            int excl = prev1;
-            int ans = max(incl,excl);
+        // dont rob
+        int skip = 0;
+        skip = solve(i + 1, n, dp, nums);
 
-            prev2 = prev1;
-            prev1 = ans;
-        }
-
-        return prev1;
+        dp[i] = max(rob, skip);
+        return dp[i];
     }
 
     int rob(vector<int>& nums) {
-        
-        int n = nums.size();
-        
-        if(n == 0) return 0;
-        if(n == 1) return nums[0];
 
-        vector<int> first, second;
+        if(nums.size() == 1) return nums[0];
 
-        for(int i = 0; i < n; i++)
-        {
-            if(i != n-1)
-            second.push_back(nums[i]);
+        vector<int> dp1(nums.size(), -1);
+        vector<int> dp2(nums.size(), -1);
 
-            if(i != 0)
-            first.push_back(nums[i]);
-        }
-
-        return max(solve(first), solve(second));
+        return max(
+            solve(0, nums.size() - 1, dp1, nums),
+            solve(1, nums.size(), dp2, nums)
+        );
 
     }
 };
