@@ -9,7 +9,8 @@ public:
 
         if(text1[i] == text2[j]) 
         return dp[i][j] = 1 + solve(i + 1, j + 1, text1, text2, dp);
-
+        
+        else
         return dp[i][j] = max( solve(i + 1, j, text1, text2, dp), solve(i, j + 1, text1, text2, dp) );   
     }
 
